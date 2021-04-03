@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Vunce Lander
+- 👀 I’m interested in Data Science & Web development
+- 🌱 I’m currently learning more about Machine Learning & Web development
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 Reach me via;
+  - Linkedin: linkedin.com/in/vince-lander-gamboa-17b8981a3
+  - Email: vincelander27@gmail.com
