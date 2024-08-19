@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vunce Lander
+- 👋 Hi, I’m Vince Lander
 - 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently a Data Scientist at Accenture.
 - 💞️ I’m looking to collaborate on Data Science Projects
